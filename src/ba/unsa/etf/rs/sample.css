@@ -1,0 +1,12 @@
+.root {
+    -fx-background-color: lightgreen;
+}
+
+button {
+    -fx-background-color: gray;
+
+}
+#helloWorld{
+    -fx-background-color: white;
+    -fx-text-fill: black;
+}
